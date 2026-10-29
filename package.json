@@ -1,0 +1,31 @@
+{
+  "name": "jiangnan-scenes",
+  "version": "1.0.0",
+  "description": "江南双景 · 听澜阁与烟江钓叟（Three.js 双场景）",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "keywords": [
+    "three.js",
+    "webgl",
+    "chinese-architecture",
+    "pavilion",
+    "fishing",
+    "vite"
+  ],
+  "author": "yh",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "vite": "^8.3.5"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=20.19"
+  }
+}
